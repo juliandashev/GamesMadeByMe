@@ -1,0 +1,2 @@
+Game1: "Lost" is my first game. I participated at NOIT 2019(Национална олимпиада по Информационни технологии) with that game.
+Game2: "Survive In History" is my second game, but this time i wasn't making it alone, I was working with my classmate and we participated at NOIT 2020(Национална олимпиада по Информационни технологии) as a team of two.
